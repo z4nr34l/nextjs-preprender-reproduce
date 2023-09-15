@@ -1,5 +1,5 @@
 {
-  "name": "revalidate-build-test",
+  "name": "nextjs-preprender-reproduce",
   "version": "0.1.0",
   "private": true,
   "scripts": {
